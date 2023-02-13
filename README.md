@@ -1,6 +1,6 @@
 # CurrencyConverter
 
-### Currency converter is used to transfer currencies of different countries. Currencies are currently available:
+Currency converter is used to transfer currencies of different countries. Currencies are currently available:
 1. RUB - Russian Ruble (₽)
 2. USD - US Dollar ($)
 3. EUR - Euro (€)
